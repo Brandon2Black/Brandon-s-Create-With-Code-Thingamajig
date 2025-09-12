@@ -1058,3 +1058,43 @@ Received Import Request.
   path: Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat
   artifactKey: Guid(af9d3101091f90d4db78a2097d5dcb84) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
 Start importing Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat using Guid(af9d3101091f90d4db78a2097d5dcb84) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)  -> (artifact id: '66a043981d86670d4811dd67f2502100') in 0.006878 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004424 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.966 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2669 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 215.4 MB.
+System memory in use after: 215.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3337.
+Total: 1.777908 ms (FindLiveObjects: 0.199096 ms CreateObjectMapping: 0.092912 ms MarkObjects: 1.445080 ms  DeleteObjects: 0.040190 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2662 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 215.4 MB.
+System memory in use after: 215.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3340.
+Total: 1.791081 ms (FindLiveObjects: 0.209589 ms CreateObjectMapping: 0.098415 ms MarkObjects: 1.441164 ms  DeleteObjects: 0.041190 ms)
+
