@@ -19,7 +19,8 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
        transform.Translate(Vector3.forward * Time.deltaTime * speed * forwardInput);
-       transform.Translate(Vector3.right * Time.deltaTime * turnSpeed * horizontalInput);
+       transform.Rotate(Vector3.up, turnSpeed * horizontalInput * Time.deltaTime);
+       //transform.Translate(Vector3.right * Time.deltaTime * turnSpeed * horizontalInput);
        horizontalInput = Input.GetAxis("Horizontal");
        forwardInput = Input.GetAxis("Vertical");
     }
