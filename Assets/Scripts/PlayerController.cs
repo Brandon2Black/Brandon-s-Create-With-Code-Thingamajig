@@ -18,7 +18,9 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //moves the car forward
        transform.Translate(Vector3.forward * Time.deltaTime * speed * forwardInput);
+       //rotates the car based on which horizontal input you press.
        transform.Rotate(Vector3.up, turnSpeed * horizontalInput * Time.deltaTime);
        //transform.Translate(Vector3.right * Time.deltaTime * turnSpeed * horizontalInput);
        horizontalInput = Input.GetAxis("Horizontal");
