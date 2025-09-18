@@ -523,3 +523,23 @@ Received Import Request.
   path: Assets/Scripts/FollowPlayer.cs
   artifactKey: Guid(077c6a313f7ca4b7eb53b23f680d8031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/FollowPlayer.cs using Guid(077c6a313f7ca4b7eb53b23f680d8031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890fa8787a9d00d660d5183195fab5e2') in 0.001568 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005382 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.0 MB.
+System memory in use after: 176.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3186.
+Total: 1.861473 ms (FindLiveObjects: 0.264090 ms CreateObjectMapping: 0.089745 ms MarkObjects: 1.458173 ms  DeleteObjects: 0.048782 ms)
+
