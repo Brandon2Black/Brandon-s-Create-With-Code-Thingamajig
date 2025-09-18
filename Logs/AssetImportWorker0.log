@@ -479,3 +479,35 @@ System memory in use after: 175.7 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3180.
 Total: 1.682430 ms (FindLiveObjects: 0.185387 ms CreateObjectMapping: 0.081096 ms MarkObjects: 1.382883 ms  DeleteObjects: 0.032422 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 817.131803 seconds.
+  path: Assets/Challenge 1/Challenge 1.unity
+  artifactKey: Guid(b6cc3e14dbc3342c8ab192babf679766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Challenge 1/Challenge 1.unity using Guid(b6cc3e14dbc3342c8ab192babf679766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b974d040dcc070d60e4315d9b8edd96f') in 0.028815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.255483 seconds.
+  path: Assets/Scenes/Prototype 1.unity
+  artifactKey: Guid(84729eeda748340d0955715b6a50b370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Prototype 1.unity using Guid(84729eeda748340d0955715b6a50b370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a7910902b9a19fb23ded9ce46dc218') in 0.001374 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001433 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.8 MB.
+System memory in use after: 176.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3183.
+Total: 1.906415 ms (FindLiveObjects: 0.218092 ms CreateObjectMapping: 0.081618 ms MarkObjects: 1.553511 ms  DeleteObjects: 0.052367 ms)
+
