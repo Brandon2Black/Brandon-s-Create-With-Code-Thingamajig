@@ -511,3 +511,15 @@ System memory in use after: 176.0 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3183.
 Total: 1.906415 ms (FindLiveObjects: 0.218092 ms CreateObjectMapping: 0.081618 ms MarkObjects: 1.553511 ms  DeleteObjects: 0.052367 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 49.056754 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(575b6f5bc9ae640cdbb7a07b37aab145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(575b6f5bc9ae640cdbb7a07b37aab145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a2d6b225e20066bc3663c4f269d0a0') in 0.011448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.366673 seconds.
+  path: Assets/Scripts/FollowPlayer.cs
+  artifactKey: Guid(077c6a313f7ca4b7eb53b23f680d8031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FollowPlayer.cs using Guid(077c6a313f7ca4b7eb53b23f680d8031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890fa8787a9d00d660d5183195fab5e2') in 0.001568 seconds 
