@@ -155,3 +155,187 @@ System memory in use after: 172.4 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3134.
 Total: 1.748669 ms (FindLiveObjects: 0.181033 ms CreateObjectMapping: 0.139157 ms MarkObjects: 1.394314 ms  DeleteObjects: 0.033547 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002257 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.5 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3137.
+Total: 2.300551 ms (FindLiveObjects: 0.301718 ms CreateObjectMapping: 0.209192 ms MarkObjects: 1.733824 ms  DeleteObjects: 0.039138 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 277.853160 seconds.
+  path: Assets/Scripts/SpinnySpinTime.cs
+  artifactKey: Guid(b1fafb20ea39e4a0f8b233ba586283d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SpinnySpinTime.cs using Guid(b1fafb20ea39e4a0f8b233ba586283d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc1be405e0ee8a3d339d27f64e6c8fe') in 0.007631 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001408 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.904 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.7 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3141.
+Total: 1.766503 ms (FindLiveObjects: 0.231577 ms CreateObjectMapping: 0.100032 ms MarkObjects: 1.397689 ms  DeleteObjects: 0.036530 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001379 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.9 MB.
+System memory in use after: 173.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3144.
+Total: 1.656137 ms (FindLiveObjects: 0.190558 ms CreateObjectMapping: 0.082628 ms MarkObjects: 1.347107 ms  DeleteObjects: 0.035076 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.852381 seconds.
+  path: Assets/Scripts/SpinnySpinTime.cs
+  artifactKey: Guid(b1fafb20ea39e4a0f8b233ba586283d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SpinnySpinTime.cs using Guid(b1fafb20ea39e4a0f8b233ba586283d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860a08dbaa29c1fddac6165b88485a0c') in 0.004983 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.2 MB.
+System memory in use after: 173.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3147.
+Total: 2.180588 ms (FindLiveObjects: 0.269523 ms CreateObjectMapping: 0.122599 ms MarkObjects: 1.742653 ms  DeleteObjects: 0.044987 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001698 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.909 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.4 MB.
+System memory in use after: 173.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3150.
+Total: 2.287186 ms (FindLiveObjects: 0.294956 ms CreateObjectMapping: 0.152738 ms MarkObjects: 1.802353 ms  DeleteObjects: 0.036092 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.291614 seconds.
+  path: Assets/Scripts/SpinnySpinTime.cs
+  artifactKey: Guid(b1fafb20ea39e4a0f8b233ba586283d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SpinnySpinTime.cs using Guid(b1fafb20ea39e4a0f8b233ba586283d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3c96ce0fd2f512afec80baf4489ade') in 0.004986 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001535 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.884 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.6 MB.
+System memory in use after: 173.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3153.
+Total: 1.773061 ms (FindLiveObjects: 0.208167 ms CreateObjectMapping: 0.103238 ms MarkObjects: 1.425208 ms  DeleteObjects: 0.035726 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.045439 seconds.
+  path: Assets/Scripts/SpinnySpinTime.cs
+  artifactKey: Guid(b1fafb20ea39e4a0f8b233ba586283d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SpinnySpinTime.cs using Guid(b1fafb20ea39e4a0f8b233ba586283d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565c54ee4d314423602f6675e10e4eb3') in 0.004923 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001419 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.8 MB.
+System memory in use after: 174.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3156.
+Total: 1.945500 ms (FindLiveObjects: 0.214337 ms CreateObjectMapping: 0.124673 ms MarkObjects: 1.570006 ms  DeleteObjects: 0.035862 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001672 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.0 MB.
+System memory in use after: 174.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3159.
+Total: 1.696290 ms (FindLiveObjects: 0.197767 ms CreateObjectMapping: 0.093499 ms MarkObjects: 1.367714 ms  DeleteObjects: 0.036515 ms)
+
